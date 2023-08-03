@@ -21,7 +21,7 @@ variable "suffix" {
 
 variable "resourcegroup_name" {
   type    = string
-  default = "apim-demo-rg"
+  default = "RG-AU-CloudTeam-POC"
 }
 
 variable "location" {
